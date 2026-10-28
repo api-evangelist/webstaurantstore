@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WebstaurantStore is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://webstaurantstore.com/
+WebstaurantStore is a leading online retailer of commercial restaurant supplies, offering a vast catalog of equipment, smallwares, food and beverage items, furniture, and janitorial products. The company serves restaurants, foodservice operators, and hospitality businesses with competitive pricing, extensive product details, and a robust e‑commerce platform that includes ordering, tracking, and customer support services.
+
+**Areas:** Company · E-commerce · Restaurant Supplies · Foodservice · B2B
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://webstaurantstore.com/)
+- [Blog](https://www.webstaurantstore.com/blog/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/webstaurantstore/](https://apis.io/providers/webstaurantstore/).
